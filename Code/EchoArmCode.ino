@@ -1,7 +1,7 @@
 // Author: Salomon Hernandez-Soto
 
 #include <Wire.h>
-#include "MPU6050_6Axis_MotionApps20.h"ii
+#include "MPU6050_6Axis_MotionApps20.h"
 
 // Sets up mpu0 (on forearm) and mpu1 (on hand)
 MPU6050 mpu0(0x68);
